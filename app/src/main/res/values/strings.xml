@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWearApp</string>
+    <string name="Hello">Hello WearApp</string>
+</resources>
